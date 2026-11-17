@@ -55,7 +55,7 @@ git init
 git add .
 git commit -m "AI 3D Assistant v1.4: чтение экрана и wake-слово"
 git branch -M main
-git remote add origin https://github.com/ВАШ_ЛОГИН/AIAssistant3D.git
+git remote add origin https://github.com/szao619-eng /AIAssistant3D.git
 git push -u origin main
 ```
 
